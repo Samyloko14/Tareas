@@ -1,0 +1,6 @@
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\bin\Debug\Tarea 1 samy.exe.config
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\bin\Debug\Tarea 1 samy.exe
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\bin\Debug\Tarea 1 samy.pdb
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\obj\Debug\Tarea 1 samy.csprojResolveAssemblyReference.cache
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\obj\Debug\Tarea 1 samy.exe
+c:\users\berzunza\documents\Tarea 1 samy\Tarea 1 samy\obj\Debug\Tarea 1 samy.pdb
